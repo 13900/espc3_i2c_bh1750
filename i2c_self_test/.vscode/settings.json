@@ -1,0 +1,12 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "idf.flashType": "UART",
+  "idf.portWin": "COM5",
+  "idf.adapterTargetName": "esp32c3",
+  "idf.openOcdConfigs": [
+    "board/esp32c3-builtin.cfg"
+  ],
+  "files.associations": {
+    "bh1750.h": "c"
+  }
+}

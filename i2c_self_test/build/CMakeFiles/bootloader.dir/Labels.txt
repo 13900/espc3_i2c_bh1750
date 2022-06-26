@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/CodeDoc/ESPCode/espc3_i2c_bh1750/i2c_self_test/build/CMakeFiles/bootloader
+D:/CodeDoc/ESPCode/espc3_i2c_bh1750/i2c_self_test/build/CMakeFiles/bootloader.rule
+D:/CodeDoc/ESPCode/espc3_i2c_bh1750/i2c_self_test/build/CMakeFiles/bootloader-complete.rule
+D:/CodeDoc/ESPCode/espc3_i2c_bh1750/i2c_self_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/CodeDoc/ESPCode/espc3_i2c_bh1750/i2c_self_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/CodeDoc/ESPCode/espc3_i2c_bh1750/i2c_self_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/CodeDoc/ESPCode/espc3_i2c_bh1750/i2c_self_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/CodeDoc/ESPCode/espc3_i2c_bh1750/i2c_self_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/CodeDoc/ESPCode/espc3_i2c_bh1750/i2c_self_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/CodeDoc/ESPCode/espc3_i2c_bh1750/i2c_self_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
